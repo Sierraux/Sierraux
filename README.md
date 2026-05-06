@@ -16,8 +16,8 @@
 name      : Daffa Mashabi
 username  : DaffaMashabi24
 location  : Toulouse, France 🇫🇷
-education : S4 — Web Programming
-focus     : Frontend Web Development
+education : Bachelor of Informatics
+focus     : Game Development & Web Development
 status    : 🌴 On vacation & always learning
 ```
 
@@ -121,8 +121,8 @@ status    : 🌴 On vacation & always learning
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaffaMashabi24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaffaMashabi24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daffamashabi)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Instagram](https://shields.io)](https://www.instagram.com/ekvkaktkql/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffamashabi24@gmail.com)
 
 </div>
 
