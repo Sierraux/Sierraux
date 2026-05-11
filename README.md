@@ -80,29 +80,6 @@ status    : 🌴 On vacation & always learning
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-
-[![GitHub Profile](https://github-readme-stats.vercel.app/api/pin/?username=DaffaMashabi24&repo=GitHub_Profile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/DaffaMashabi24/GitHub_Profile)
-[![S4 Web Week 4](https://github-readme-stats.vercel.app/api/pin/?username=DaffaMashabi24&repo=S4-Web-Programming-Week-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/DaffaMashabi24/S4-Web-Programming-Week-4)
-
-[![S4 Web Week 5](https://github-readme-stats.vercel.app/api/pin/?username=DaffaMashabi24&repo=S4-Web-Programming-Week-5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/DaffaMashabi24/S4-Web-Programming-Week-5)
-[![S4 Web Week 6](https://github-readme-stats.vercel.app/api/pin/?username=DaffaMashabi24&repo=S4-Web-Programming-Week-6-Website-Profile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/DaffaMashabi24/S4-Web-Programming-Week-6-Website-Profile)
-
-</div>
-
-### 🗂️ Project Details
-
-| # | Project | Description | Tech | Status |
-|---|---------|-------------|------|--------|
-| 1 | [GitHub Profile](https://github.com/Sierraux/Sierraux) | Custom GitHub profile README | Markdown | ✅ Active |
-| 2 | [Web Programming — Week 4](https://github.com/Sierraux/S4-Web-Programming-Week-4) | S4 Web Programming assignment week 4 | HTML | ✅ Complete |
-| 3 | [Web Programming — Week 5](https://github.com/Sierraux/S4-Web-Programming-Week-5) | S4 Web Programming assignment week 5 | HTML | ✅ Complete |
-| 4 | [Website Profile — Week 6](https://github.com/Sierraux/S4-Web-Programming-Week-6-Website-Profile) | Personal website profile project | HTML | ✅ Complete |
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
