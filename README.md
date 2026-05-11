@@ -1,44 +1,60 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daffa%20Mashabi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Student%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://vercel.app" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Daffa+Mashabi+%F0%9F%91%8B;Web+Developer+%7C+HTML+%2F+CSS+%2F+JS;Always+learning+new+things+%F0%9F%9A%80;Open+to+collaboration!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🚀 Quick Summary
+*Focused on creating immersive games and high-performance web applications.*
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-```yaml
-name      : Daffa Mashabi
-username  : Sierraux
-education : Bachelor of Informatics
-focus     : Game Development & Web Development
-status    : 🌴 On vacation & always learning
-```
-
-- 🌱 Sedang belajar lebih dalam tentang **Game Development, HTML, CSS, JavaScript, Python & Web Design**
-- 💡 Tertarik dengan **Game Development**, **UI/UX Design** dan **Frontend Development**
-- 💬 Feel free to reach out anytime!
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 Background</h4>
+      <ul>
+        <li>🎓 <b>Education:</b> Bachelor of Informatics</li>
+        <li>📂 <b>Current Focus:</b> Modern Web Tech & Game Logic</li>
+        <li>🌴 <b>Current Status:</b> Actively learning & Open for collab</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Interest & Goals</h4>
+      <ul>
+        <li>🕹️ <b>Gaming:</b> Mechanics, Engine Architecture</li>
+        <li>🎨 <b>UI/UX:</b> Clean & Intuitive Interfaces</li>
+        <li>🤖 <b>Tech:</b> Emerging Frameworks & AI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Proficiency
 
 <div align="center">
 
-### Languages & Markup
+### 💻 Languages & Markup
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://shields.io)
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ⚙️ Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -46,41 +62,38 @@ status    : 🌴 On vacation & always learning
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Developer Metrics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sierraux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sierraux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sierraux&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sierraux&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
 
 </div>
 
 ---
 
-## 📈 Language Usage (Based on Repositories)
+## 📈 Current Project Stats
 
 <div align="center">
 
-> Based on public repositories — primary focus: **Web Development with HTML/CSS**
 
-| Language   | Usage        | Bar                                                         |
-|:----------:|:------------:|:------------------------------------------------------------|
-| HTML       | ~85%         | `████████████████████░░░░` |
-| CSS        | ~10%         | `██░░░░░░░░░░░░░░░░░░░░░░` |
-| JavaScript | ~3%          | `░░░░░░░░░░░░░░░░░░░░░░░░` |
-| Markdown   | ~2%          | `░░░░░░░░░░░░░░░░░░░░░░░░` |
+| Language | Efficiency | Progress Bar |
+| :--- | :---: | :--- |
+| **HTML** | 85% | `████████████████████░░░░` |
+| **CSS** | 10% | `██░░░░░░░░░░░░░░░░░░░░░░` |
+| **JavaScript** | 3% | `░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Others** | 2% | `░░░░░░░░░░░░░░░░░░░░░░░░` |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Trophies
 
 <div align="center">
 
@@ -90,19 +103,7 @@ status    : 🌴 On vacation & always learning
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sierraux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sierraux)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ekvkaktkql/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffamashabi24@gmail.com)
-
-</div>
-
----
-
-## 📅 Contribution Graph
+## 📅 Activity Roadmap
 
 <div align="center">
 
@@ -112,12 +113,22 @@ status    : 🌴 On vacation & always learning
 
 ---
 
+## 🌐 Let's Build Together
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sierraux&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Instagram](https://shields.io)](https://www.instagram.com/ekvkaktkql/)
+[![Email](https://shields.io)](mailto:daffamashabi24@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*⭐ Star my repos if you find them useful! Let's build something great together.*
+*⭐ Don't forget to star my repositories if you find them helpful!*
 
 </div>
