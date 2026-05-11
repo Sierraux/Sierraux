@@ -96,10 +96,10 @@ status    : 🌴 On vacation & always learning
 
 | # | Project | Description | Tech | Status |
 |---|---------|-------------|------|--------|
-| 1 | [GitHub Profile](https://github.com/DaffaMashabi24/GitHub_Profile) | Custom GitHub profile README | Markdown | ✅ Active |
-| 2 | [Web Programming — Week 4](https://github.com/DaffaMashabi24/S4-Web-Programming-Week-4) | S4 Web Programming assignment week 4 | HTML | ✅ Complete |
-| 3 | [Web Programming — Week 5](https://github.com/DaffaMashabi24/S4-Web-Programming-Week-5) | S4 Web Programming assignment week 5 | HTML | ✅ Complete |
-| 4 | [Website Profile — Week 6](https://github.com/DaffaMashabi24/S4-Web-Programming-Week-6-Website-Profile) | Personal website profile project | HTML | ✅ Complete |
+| 1 | [GitHub Profile](https://github.com/Sierraux/Sierraux) | Custom GitHub profile README | Markdown | ✅ Active |
+| 2 | [Web Programming — Week 4](https://github.com/Sierraux/S4-Web-Programming-Week-4) | S4 Web Programming assignment week 4 | HTML | ✅ Complete |
+| 3 | [Web Programming — Week 5](https://github.com/Sierraux/S4-Web-Programming-Week-5) | S4 Web Programming assignment week 5 | HTML | ✅ Complete |
+| 4 | [Website Profile — Week 6](https://github.com/Sierraux/S4-Web-Programming-Week-6-Website-Profile) | Personal website profile project | HTML | ✅ Complete |
 
 ---
 
@@ -107,7 +107,7 @@ status    : 🌴 On vacation & always learning
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaffaMashabi24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sierraux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -117,7 +117,7 @@ status    : 🌴 On vacation & always learning
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DaffaMashabi24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaffaMashabi24)
+[![GitHub](https://img.shields.io/badge/GitHub-Sierraux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sierraux)
 [![Instagram](https://shields.io)](https://www.instagram.com/ekvkaktkql/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffamashabi24@gmail.com)
 
@@ -129,7 +129,7 @@ status    : 🌴 On vacation & always learning
 
 <div align="center">
 
-[![DaffaMashabi24's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaffaMashabi24&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sierraux's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sierraux&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -137,7 +137,7 @@ status    : 🌴 On vacation & always learning
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DaffaMashabi24&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sierraux&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
